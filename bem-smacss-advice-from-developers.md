@@ -1,11 +1,29 @@
 ## BEM and SMACSS: Advice From Developers Who’ve Been There
 
-#### It helps you rediscover the power of classes
+#### BEM
 
-#### Makes working on larger sites easier
+- It helps you rediscover the **power of classes**
 
-#### The BEM methodology encapsulates your code for reuse
+- Makes working on larger sites easier
 
-#### Works well with frameworks with a component-based focus
+- The BEM methodology encapsulates your code for reuse
 
-#### Quick way to deliver prototypes ...
+- Works well with frameworks with a component-based focus
+
+- Quick way to deliver prototypes ...
+
+- Makes you think twice
+
+- Make sure you plan
+
+- Don't get too strict to it
+
+- If you've been hesitating, just jump in and give it a go
+
+#### Guidance from those who've used SMACSS
+
+- Easy of demonstration and handover
+- Good for newcomers to a CSS methodology
+- Easy of reading
+- Scalable for all projects
+- You can use SMACSS and BEM
